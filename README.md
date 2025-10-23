@@ -118,7 +118,3 @@ From empirical analysis (1994-2013):
 ## References
 
 Based on the paper methodology analyzing PCA as an alternative to Markowitz mean-variance optimization, particularly relevant for institutional investors (pension funds, insurance companies) with short-selling constraints.
-
-
-
-Contributions are welcome! Please open an issue or submit a pull request.
