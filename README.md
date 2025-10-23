@@ -114,7 +114,3 @@ From empirical analysis (1994-2013):
 - Class III matrices (short positions) emerge primarily during market instability (1999-2008)
 - Recovery period (2009-2013) shows almost no Class III cases
 - Short positions arise from MNC stocks that behave oppositely to the market
-
-## References
-
-Based on the paper methodology analyzing PCA as an alternative to Markowitz mean-variance optimization, particularly relevant for institutional investors (pension funds, insurance companies) with short-selling constraints.
